@@ -20,7 +20,7 @@
                 "label": "Blog",
                 "url": "/blog/",
                 "style": "link",
-                "icon_class": "facebook"
+                "icon_class": "dev"
             },
             {
                 "label": "Style Guide",
